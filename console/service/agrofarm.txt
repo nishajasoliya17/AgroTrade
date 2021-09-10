@@ -1,0 +1,5 @@
+host : 148.72.232.177:3306
+pass : 5Pzm$i59
+db : agrofarm
+user : agrofarm
+

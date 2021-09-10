@@ -1,0 +1,17 @@
+{"students" :[
+	{
+	"name" : "xyz",
+	"sname" : "abc",
+	"subject": 
+				{"java" : 200 , "php" : 100 , "C++" : 200}
+			 	
+},
+
+{
+	"name" : "xyz",
+	"sname" : "abc",
+	"subject": 
+				{"java" : 200 , "php" : 100 , "C++" : 200}
+			 	
+}]
+}
